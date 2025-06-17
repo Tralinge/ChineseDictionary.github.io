@@ -7225,7 +7225,7 @@ window.getDict = function () { return {
     "侃爷": { tl: "[kǎn  yé ] big talker", tx: "^3侃^2爷" },
     "侄": { tl: "[zhí ] variant of 姪|侄[zhi2]; variant of 姪|侄[zhi2]; brother's son; nephew", tx: "^2侄" },
     "侅": { tl: "[gāi ] to give; prepared for included in; embraced in", tx: "^1侅" },
-    "来": { tl: "[lái ] o indicate impossibility, as in 吃不來|吃不来[chi1bu5lai2])", tx: "^2来" },
+    "来": { tl: "[lái ] to come; hither; for the past (amount of time); (prefix) the coming ...; the next ...; (between two verbs) in order to; (after a round number) approximately; (used after 得[dé ] to indicate possibility", tx: "^2来" },
     "来M": { tl: "[lái  M] (coll.) (of women) to get one's period", tx: "^2来^M" },
     "来不及": { tl: "[lái  bu  jí ] there's not enough time (to do sth); it's too late (to do sth)", tx: "^2来^5不^2及" },
     "来不得": { tl: "[lái  bu  dé ] cannot allow (to be present); cannot admit", tx: "^2来^5不^2得" },

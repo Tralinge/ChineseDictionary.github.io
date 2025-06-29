@@ -119121,5 +119121,5 @@ window.getDict = function () {
         "龟趺": { tl: "[guī  fū ] turtle-shaped plinth of a stele", tx: "^1龟^1趺" },
         "龟速": { tl: "[guī  sù ] as slow as a tortoise", tx: "^1龟^4速" },
         "龟头": { tl: "[guī  tóu ] head of a turtle; glans penis", tx: "^1龟^2头" },
-    }
+    };
 };

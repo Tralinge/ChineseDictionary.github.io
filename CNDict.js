@@ -93978,7 +93978,7 @@ window.getDict = function () {
         "袢": { tl: "[pàn ] used in 袷袢[qia1 pan4]; variant of 襻[pan4]", tx: "^4袢" },
         "袤": { tl: "[mào ] length; distance from north to south", tx: "^4袤" },
         "袪": { tl: "[qū ] sleeve opening", tx: "^1袪" },
-        "被": { tl: "[bèi ] quilt; to cover (with); (literary) to suffer (a misfortune); used to indicate passive voice (placed before the doer of the action like "by" in English passive-voice sentences, or, if the doer is not mentioned, before the verb); (since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in  被旅遊|被旅游[bèi  lǚ yóu ] to 'go on a trip')", tx: "^4被" },
+        "被": { tl: "[bèi ] quilt; to cover (with); (literary) to suffer (a misfortune); used to indicate passive voice (placed before the doer of the action like 'by' in English passive-voice sentences, or, if the doer is not mentioned, before the verb); (since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in  被旅遊|被旅游[bèi  lǚ yóu ] to 'go on a trip')", tx: "^4被" },
         "被上诉人": { tl: "[bèi  shàng  sù  rén ] appellee (side that won in trial court, whose victory is being appealed by losing side)", tx: "^4被^4上^4诉^2人" },
         "被乘数": { tl: "[bèi  chéng  shù ] multiplicand", tx: "^4被^2乘^4数" },
         "被保人": { tl: "[bèi  bǎo  rén ] insured person; insurance policyholder", tx: "^4被^3保^2人" },

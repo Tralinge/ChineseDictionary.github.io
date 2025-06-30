@@ -107038,7 +107038,7 @@ window.getDict = function () {
         "锶": { tl: "[sī ] strontium (chemistry)", tx: "^1锶" },
         "鍹": { tl: "[xuān ] spade; hoe", tx: "^1鍹" },
         "锗": { tl: "[zhě ] germanium (chemistry)", tx: "^3锗" },
-        "钟": { tl: "[zhōng ] a (large) bell; clock; amount of time; o'clock (as in 三點鐘|三点钟[sān diǎn zhōng ] "three o'clock" or "three hours"; handleless cup; goblet; (bound form) to concentrate (one's affection etc); variant of 鐘| 钟[zhong1]; Zhong(surname)", tx: "^ 1钟" },
+        "钟": { tl: "[zhōng ] a (large) bell; clock; amount of time; o'clock (as in 三點鐘|三点钟[sān diǎn zhōng ] 'three o'clock' or 'three hours'; handleless cup; goblet; (bound form) to concentrate (one's affection etc); variant of 鐘| 钟[zhong1]; Zhong(surname)", tx: "^ 1钟" },
 "钟情": { tl: "[zhōng  qíng ] to fall in love; to love sb or sth dearly (lover, or art)", tx: "^1钟^2情" },
     "钟爱": { tl: "[zhōng  ài ] to treasure; to be very fond of", tx: "^1钟^4爱" },
     "钟楚红": { tl: "[Zhōng  Chǔ  hóng ] Cherie Chung (1960-), Hong Kong actress", tx: "^1钟^3楚^2红" },

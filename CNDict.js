@@ -118,7 +118,7 @@ window.getDict = function () {
         "word": { tl: "[w o r d] my (Internet slang variant of 我的[wo3 de5])", tx: "^w^o^r^d" },
         "word姐": { tl: "[w o r d jiě ] my big sister (Internet slang version of 我的姐[wo3 de5 jie3])", tx: "^3w^o^r^d^姐" },
         "π日": { tl: "[Pài  rì ] World Pi Day, a celebration of the mathematical constant π on March 14 each year", tx: "^4π^4日" },
-        "一": { tl: "[yī ] or greater clarity when spelling out numbers digit by digit", tx: "^1一" },
+        "一": { tl: "[yī ] one; single; a (article); as soon as; entire; whole; all; throughout; ‘one’ radical in Chinese characters (Kangxi radical 1 ); also pr. [yāo ]; greater clarity when spelling out numbers digit by digit", tx: "^1一" },
         "一一": { tl: "[yī  yī ] one by one; one after another", tx: "^1一^1一" },
         "一一对应": { tl: "[yī  yī  duì  yìng ] one-to-one correspondence", tx: "^1一^1一^4对^4应" },
         "一一映射": { tl: "[yī  - yī  yìng  shè ] (math.) bijective map", tx: "^1一^1一^4映^4射" },
